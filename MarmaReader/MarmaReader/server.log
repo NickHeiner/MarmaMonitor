@@ -1,0 +1,78 @@
+2012-04-22 13:20:49 [INFO] Starting minecraft server version 1.2.5
+2012-04-22 13:20:49 [INFO] Loading properties
+2012-04-22 13:20:49 [WARNING] server.properties does not exist
+2012-04-22 13:20:49 [INFO] Generating new properties file
+2012-04-22 13:20:49 [INFO] Starting Minecraft server on *:25565
+2012-04-22 13:20:49 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (The system cannot find the file specified)
+2012-04-22 13:20:49 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (The system cannot find the file specified)
+2012-04-22 13:20:49 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (The system cannot find the file specified)
+2012-04-22 13:20:49 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (The system cannot find the file specified)
+2012-04-22 13:20:50 [INFO] Preparing level "world"
+2012-04-22 13:20:50 [INFO] Default game type: 0
+2012-04-22 13:20:50 [INFO] Preparing start region for level 0
+2012-04-22 13:20:51 [INFO] Preparing spawn area: 8%
+2012-04-22 13:20:52 [INFO] Preparing spawn area: 20%
+2012-04-22 13:20:53 [INFO] Preparing spawn area: 28%
+2012-04-22 13:20:54 [INFO] Preparing spawn area: 40%
+2012-04-22 13:20:55 [INFO] Preparing spawn area: 52%
+2012-04-22 13:20:56 [INFO] Preparing spawn area: 65%
+2012-04-22 13:20:57 [INFO] Preparing spawn area: 81%
+2012-04-22 13:20:58 [INFO] Preparing spawn area: 93%
+2012-04-22 13:20:59 [INFO] Done (9.315s)! For help, type "help" or "?"
+2012-04-22 13:27:34 [INFO] Minister_Of_HPAT [/192.168.1.106:40131] logged in with entity id 7465 at (75.5, 64.62000000476837, 262.5)
+2012-04-22 13:27:47 [INFO] Minister_Of_HPAT lost connection: disconnect.quitting
+2012-04-22 13:28:01 [INFO] tjertel [/192.168.1.111:51499] logged in with entity id 8075 at (70.5, 65.62000000476837, 254.5)
+2012-04-22 13:28:09 [INFO] tjertel lost connection: disconnect.quitting
+2012-04-22 13:33:26 [INFO] Stopping server
+2012-04-22 13:33:26 [INFO] Saving chunks
+2012-04-22 13:33:26 [INFO] Saving chunks
+2012-04-22 13:33:26 [INFO] Saving chunks
+2012-04-22 13:33:35 [INFO] Starting minecraft server version 1.2.5
+2012-04-22 13:33:35 [INFO] Loading properties
+2012-04-22 13:33:35 [INFO] Starting Minecraft server on *:25565
+2012-04-22 13:33:35 [INFO] Preparing level "marmaland"
+2012-04-22 13:33:35 [INFO] Default game type: 0
+2012-04-22 13:33:35 [INFO] Preparing start region for level 0
+2012-04-22 13:33:36 [INFO] Preparing spawn area: 8%
+2012-04-22 13:33:37 [INFO] Preparing spawn area: 16%
+2012-04-22 13:33:38 [INFO] Preparing spawn area: 32%
+2012-04-22 13:33:39 [INFO] Preparing spawn area: 44%
+2012-04-22 13:33:40 [INFO] Preparing spawn area: 61%
+2012-04-22 13:33:41 [INFO] Preparing spawn area: 73%
+2012-04-22 13:33:42 [INFO] Preparing spawn area: 85%
+2012-04-22 13:33:43 [INFO] Preparing spawn area: 97%
+2012-04-22 13:33:44 [INFO] Done (8.827s)! For help, type "help" or "?"
+2012-04-22 13:34:04 [INFO] tjertel [/192.168.1.111:52072] logged in with entity id 5061 at (8.5, 72.62000000476837, 231.5)
+2012-04-22 13:34:19 [INFO] /192.168.1.106:40327 lost connection
+2012-04-22 13:34:23 [INFO] Minister_Of_HPAT [/192.168.1.106:40328] logged in with entity id 5555 at (15.5, 74.62000000476837, 243.5)
+2012-04-22 13:35:39 [INFO] Minister_Of_HPAT lost connection: disconnect.quitting
+2012-04-22 13:35:46 [INFO] Minister_Of_HPAT [/192.168.1.106:40364] logged in with entity id 6174 at (20.6153935460711, 74.0, 236.28828101633118)
+2012-04-22 13:35:53 [INFO] tjertel lost connection: disconnect.quitting
+2012-04-22 13:35:55 [INFO] Minister_Of_HPAT lost connection: disconnect.quitting
+2012-04-22 13:35:57 [INFO] Stopping server
+2012-04-22 13:35:57 [INFO] Saving chunks
+2012-04-22 13:35:58 [INFO] Saving chunks
+2012-04-22 13:35:58 [INFO] Saving chunks
+2012-04-22 13:36:45 [INFO] Starting minecraft server version 1.2.5
+2012-04-22 13:36:45 [INFO] Loading properties
+2012-04-22 13:36:45 [INFO] Starting Minecraft server on *:25565
+2012-04-22 13:36:45 [INFO] Preparing level "marmaland"
+2012-04-22 13:36:45 [INFO] Default game type: 0
+2012-04-22 13:36:46 [INFO] Preparing start region for level 0
+2012-04-22 13:36:47 [INFO] Preparing spawn area: 4%
+2012-04-22 13:36:48 [INFO] Preparing spawn area: 16%
+2012-04-22 13:36:49 [INFO] Preparing spawn area: 32%
+2012-04-22 13:36:50 [INFO] Preparing spawn area: 44%
+2012-04-22 13:36:51 [INFO] Preparing spawn area: 61%
+2012-04-22 13:36:52 [INFO] Preparing spawn area: 77%
+2012-04-22 13:36:53 [INFO] Preparing spawn area: 93%
+2012-04-22 13:36:53 [INFO] Done (7.725s)! For help, type "help" or "?"
+2012-04-22 13:38:00 [INFO] /192.168.1.106:40402 lost connection
+2012-04-22 13:38:11 [INFO] Minister_Of_HPAT [/192.168.1.106:40405] logged in with entity id 5225 at (18.58534495717813, 74.0, 237.4397705017743)
+2012-04-22 13:38:42 [INFO] tjertel [/192.168.1.111:52250] logged in with entity id 5461 at (14.907048766073068, 76.0, 248.17108955762947)
+2012-04-22 13:58:28 [INFO] Knower_of_Things [/192.168.1.103:56247] logged in with entity id 17825 at (6.5, 62.62000000476837, 9.5)
+2012-04-22 13:58:31 [INFO] <tjertel> heya!
+2012-04-22 13:58:36 [INFO] <tjertel> go northwest
+2012-04-22 13:58:45 [INFO] <Minister_Of_HPAT> go to the moooon
+2012-04-22 13:58:48 [INFO] <tjertel> haha
+2012-04-22 13:58:54 [INFO] <Knower_of_Things> .....I don't know what is nw
